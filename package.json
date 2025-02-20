@@ -1,0 +1,20 @@
+{
+  "name": "e2e-cypress-tests",
+  "version": "1.0.0",
+  "description": "Repositório dos testes e2e automatizados",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "cypress.io",
+    "talking about testing",
+    "good practices"
+  ],
+  "author": "Fernanda Mene <fernandamene@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.8.1"
+  }
+}
